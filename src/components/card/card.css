@@ -1,0 +1,13 @@
+.cards{
+    max-width: 80%;
+    margin: 3em auto;
+    background-color:cadetblue;
+    border: 1px solid black;
+    /* display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
