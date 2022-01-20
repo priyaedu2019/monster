@@ -54,6 +54,7 @@ class App extends React.Component{
             <Card monsters= {filteredMonsters}></Card>
         </div>
         <div>
+          <p> My images are loaded here </p>
           <img src='./images/Collaboration.PNG' alt="collab" />
         </div>
       </div>
