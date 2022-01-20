@@ -55,7 +55,7 @@ class App extends React.Component{
         </div>
         <div>
           <p> Making more changes here </p>
-          <img src='./images/Collaboration.PNG' alt="collab" />
+          <img src='/monster/images/Collaboration.PNG' alt="collab" />
         </div>
       </div>
     );
